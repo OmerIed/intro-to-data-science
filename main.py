@@ -2,10 +2,6 @@ import sys
 
 
 def main(argv):
-    # git push test
-    i = 0
-    i = i + 33777
-    print(i)
     pass
 
 
